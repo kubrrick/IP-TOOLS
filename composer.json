@@ -2,7 +2,7 @@
     "name": "kubrick/ip-tools",
     "description": "Various IPv4 and IPv6 Tools",
     "type": "library",
-    "license": "WTFPL V2",
+    "license": "WTFPL",
     "authors": [
         {
             "name": "Clément Mouline",
